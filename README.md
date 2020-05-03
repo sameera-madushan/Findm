@@ -15,7 +15,7 @@ Findm search the duplicates by computing a hash for every file while considering
   <img src="https://user-images.githubusercontent.com/55880211/79068513-1b900600-7ce5-11ea-9589-a0d1d69d7d90.gif">
 </p>
 
-### Git Installation
+## Git Installation
 ```
 # clone the repo
 $ git clone https://github.com/sameera-madushan/Findm.git
@@ -24,13 +24,13 @@ $ git clone https://github.com/sameera-madushan/Findm.git
 $ cd Findm
 ```
 
-### Usage
+## Usage
 
 ```
 python findm.py
 ```
 
-### Support & Contributions
+## Support & Contributions
 - Please ⭐️ this repository if this project helped you!
 - Contributions of any kind welcome!
 
