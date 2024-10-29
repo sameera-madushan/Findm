@@ -30,13 +30,6 @@ $ cd Findm
 python findm.py
 ```
 
-## Support & Contributions
-- Please ⭐️ this repository if this project helped you!
-- Contributions of any kind welcome!
-
-## License
-Findm is made with ♥ by [@_\_sa_miya__](https://twitter.com/__sa_miya__) and it is released under the MIT license.
-
 ## References
 https://stackoverflow.com/a/36113168/13276219
 
